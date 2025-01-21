@@ -1,0 +1,1 @@
+docker push thienbd4/ai-ocr:1.7.5

@@ -1,0 +1,11 @@
+path: /home/shared/FPT/projects/z_16_screen_detection/data/processed/final_screen_detection_v1
+train: train 
+val: val 
+test: test
+
+
+names:
+  0: Laptop
+  1: Smartphone
+  2: Monitor
+  3: Tablet

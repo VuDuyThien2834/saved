@@ -1,0 +1,9 @@
+code:
+/home/shared/FPT/projects/z_06_SHB/release/ai_ocr/src/ENGINE_MODELS.py
+/home/shared/FPT/projects/z_06_SHB/release/ai_ocr/src/card_cropper.py
+/home/shared/FPT/projects/z_06_SHB/release/ai_ocr/src/spoofing_check/avatarReplacementDetection.py
+/home/shared/FPT/projects/z_06_SHB/release/ai_ocr/engine/idcard/spoofing_check/checking.py
+/home/shared/FPT/projects/z_06_SHB/release/ai_ocr/src/spoofing_check/obs_det/IDCard_Obstructed_Detection.py
+
+model:
+/home/shared/FPT/projects/z_06_SHB/release/ai_ocr/models/idcard_models/obstructed_card/avatarReplacementDetect.pt
